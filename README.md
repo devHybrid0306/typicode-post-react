@@ -1,5 +1,5 @@
 # Fetching Posts and comments built by Typescript, React.js, Styled-components and React-query
-This app is depoloyed by surge.
+This app is deployed by surge.
 http://typicode-posts-react.surge.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
